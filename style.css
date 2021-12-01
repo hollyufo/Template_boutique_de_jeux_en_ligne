@@ -1,0 +1,12 @@
+.para{
+    box-sizing: border-box;
+    width: 300px;
+  }
+.title{
+    box-sizing: border-box;
+    width: 300px;
+}
+body{
+    background-color: #eeeae4;
+    font-family: Arial, Helvetica, sans-serif;
+}
